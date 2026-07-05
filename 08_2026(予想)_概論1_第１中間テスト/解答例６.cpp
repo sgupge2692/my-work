@@ -21,5 +21,7 @@ int main() {
 
     cout<<total<<endl<<naname;
     // ここに回答を記述
+
+    
     return 0;
 }
